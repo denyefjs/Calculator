@@ -3,7 +3,7 @@
 Ein einfacher, moderner Taschenrechner, entwickelt mit **Java** und **Swing**.  
 Das Projekt zeigt grundlegende GUI-Entwicklung, Event Handling und saubere Strukturierung eines Desktop-Programms.
 
-## 🚀 Features
+## Features
 
 - Grundrechenarten: **Addition, Subtraktion, Multiplikation, Division**
 - Erweiterte Funktionen: **Wurzel (√)**, **Prozent (%)**, **Vorzeichen wechseln (+/-)**
@@ -13,13 +13,13 @@ Das Projekt zeigt grundlegende GUI-Entwicklung, Event Handling und saubere Struk
 
 ---
 
-## 🖥️ Screenshots
+## Screenshots
 
 <img width="436" height="666" alt="Calculator" src="https://github.com/user-attachments/assets/d0c483fe-db7b-4791-9072-a9ce290f4f34" />
 
 ---
 
-## 🧩 Verwendete Technologien
+## Verwendete Technologien
 
 - **Java 17+**
 - **Swing (JFrame, JPanel, JLabel, JButton)**
@@ -28,7 +28,7 @@ Das Projekt zeigt grundlegende GUI-Entwicklung, Event Handling und saubere Struk
 
 ---
 
-## 📁 Projektstruktur
+## Projektstruktur
 src/
 └── my.calculator
 └── MyCalculator_main.java
@@ -36,7 +36,7 @@ src/
 
 ---
 
-## ⚙️ Wie man das Projekt startet
+## Wie man das Projekt startet
 
 1. Projekt in einer IDE öffnen (z. B. Eclipse oder IntelliJ).
 2. Datei **MyCalculator_main.java** ausführen.
@@ -44,7 +44,7 @@ src/
 
 ---
 
-## 💡 Lernziele / Was dieses Projekt zeigt
+## Lernziele / Was dieses Projekt zeigt
 
 - Umgang mit **GUI-Programmierung in Java**
 - Arbeiten mit **Events und User Interaction**
