@@ -54,7 +54,7 @@ src/
 
 ---
 
-## 📬 Kontakt
+## Kontakt
 
 Wenn Sie Fragen haben oder mehr Informationen benötigen:
 
